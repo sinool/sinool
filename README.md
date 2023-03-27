@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinool
 - 👀 I’m interested in every thing 😂
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & avr_microcontrollers 
 - 💞️ I’m looking to collaborate on (idk)
 - 📫 How to reach me https:\instagram.com\sinool
 
